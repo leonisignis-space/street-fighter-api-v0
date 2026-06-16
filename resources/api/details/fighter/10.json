@@ -1,0 +1,8 @@
+{
+  "_id": "10",
+  "name": "E. Honda",
+  "health": 70,
+  "attack": 3,
+  "defense": 4,
+  "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/honda.gif"
+}

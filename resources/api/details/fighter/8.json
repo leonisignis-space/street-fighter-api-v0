@@ -1,0 +1,8 @@
+{
+  "_id": "8",
+  "name": "Vega",
+  "health": 40,
+  "attack": 4,
+  "defense": 5,
+  "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/vega.gif"
+}

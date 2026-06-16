@@ -1,0 +1,8 @@
+{
+  "_id": "9",
+  "name": "Blanka",
+  "health": 50,
+  "attack": 4,
+  "defense": 2,
+  "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/blanka.gif"
+}

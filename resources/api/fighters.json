@@ -28,5 +28,35 @@
     "_id": "6",
     "name": "Bison",
     "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/bison.gif"
+  },
+  {
+    "_id": "7",
+    "name": "Sagat",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/sagat.gif"
+  },
+  {
+    "_id": "8",
+    "name": "Vega",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/vega.gif"
+  },
+  {
+    "_id": "9",
+    "name": "Blanka",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/blanka.gif"
+  },
+  {
+    "_id": "10",
+    "name": "E. Honda",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/honda.gif"
+  },
+  {
+    "_id": "11",
+    "name": "Chun-Li",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/chun-li.gif"
+  },
+  {
+    "_id": "12",
+    "name": "Balrog",
+    "source": "https://raw.githubusercontent.com/leonisignis-space/street-fighter-assets-v0/main/balrog.gif"
   }
 ]
